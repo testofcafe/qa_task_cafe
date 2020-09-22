@@ -1,0 +1,8 @@
+AndroidEmulator:
+  appName: Fasthub.apk
+  platformName: Android
+  platformVersion: 9.0
+  deviceName: Android_Emulator
+  launchActivity: com.fastaccess.ui.modules.login.chooser.LoginChooserActivity
+#  udid:
+
