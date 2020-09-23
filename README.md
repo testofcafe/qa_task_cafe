@@ -6,7 +6,7 @@ And I have used Android test app (Fasthub) for writing test scenarios.
 
 ## Prerequisites
 
-install python
+install emulator and connect to adb (debug mode)
 
 install pycharm 
 
@@ -18,6 +18,8 @@ install other required packages
 --------------------------------------------------
 
 ## To run
+```git clone https://github.com/testofcafe/qa_task_cafe.git```
+``` cd qa_task_cafe```
 
 add execute permission to ```runner.sh``` file
 
