@@ -19,6 +19,7 @@ install other required packages
 
 ## To run
 ```git clone https://github.com/testofcafe/qa_task_cafe.git```
+
 ``` cd qa_task_cafe```
 
 add execute permission to ```runner.sh``` file
