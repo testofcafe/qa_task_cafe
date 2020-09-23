@@ -75,4 +75,16 @@ contain apk file **(FastHub version 4.7.3)**
 * ```/features/steps/*.py``` implantation of feature files(scenarios) 
 * ```/features/environment.py``` setUp and tearDown steps (before and after scenario/feature) configs
 #### report
-final report in html format
+* final report in html format
+
+
+# Note: 
+
+cafebazaar/Hop repository archived and read-only, so when scenarios try to create an new issue get this error:
+
+This repository has been archived by the owner. It is now read-only. 
+
+
+for pass all test cases you can put ```testofcafe/qa_task_cafe``` instead of ```cafebazaar/Hop```
+
+
