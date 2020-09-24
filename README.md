@@ -18,6 +18,10 @@ install other required packages
 --------------------------------------------------
 
 ## To run
+
+Please watch this video on aparat :
+https://aparat.com/v/RwSFY
+
 ```git clone https://github.com/testofcafe/qa_task_cafe.git```
 
 ``` cd qa_task_cafe```
@@ -88,3 +92,22 @@ This repository has been archived by the owner. It is now read-only.
 for pass all test cases you can put ```testofcafe/qa_task_cafe``` instead of ```cafebazaar/Hop```
 
 
+# Tools
+
+| Tool                   | version |
+|------------------------|---------|
+| python                 | 3.8     |
+| android emulator       | 9.0     |
+| appium desktop (linux) | 1.15.1  |
+| Appium-Python-Client   | 1.0.2   |
+| selenium               | 3.141.0 |
+| behave                 | 1.2.6   |
+| allure-behave          | 2.8.18  |
+| allure                 | 2.6.0   |
+
+
+# Result test
+
+![alt text](https://imgur.com/3CM9phx)
+
+![alt text](https://pasteboard.co/JsARYbQ.png)
