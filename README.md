@@ -108,6 +108,4 @@ for pass all test cases you can put ```testofcafe/qa_task_cafe``` instead of ```
 
 # Result test
 
-![alt text](https://imgur.com/3CM9phx)
-
-![alt text](https://pasteboard.co/JsARYbQ.png)
+https://imgur.com/a/njgA17a
